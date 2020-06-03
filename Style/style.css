@@ -1,2 +1,13 @@
 body {font-family: courier, serif;}
 
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+  #hp  {
+    float: left;    
+     margin: 0 15px 0 0;
+    }
